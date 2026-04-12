@@ -60,7 +60,7 @@
 
 <br/>
 
-<h3>🧠 Tools & Platforms</h3>
+<h3>🧠 Tools & Platforms (AI)</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
   <img width="12"/>
