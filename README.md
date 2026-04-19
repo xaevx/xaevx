@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Deno Crispin</h2>
+<h2 align="left">Greetings 👋 I'm Deno Crispin</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=xaevx&show_icons=true&theme=graywhite&count_private=true" height="160"/>
