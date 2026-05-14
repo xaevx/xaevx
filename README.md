@@ -3,13 +3,11 @@
 <h2 align="center">Greetings 👋 I'm Deno Crispin</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xaevx&show_icons=true&theme=graywhite&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaevx&layout=compact&theme=graywhite" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=xaevx&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
 </div>
 
 ###
 
-<p align="center">
 <h3>🌐 Frontend</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
@@ -30,7 +28,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35"/>
 </div>
-</p>
 
 <br/>
 
