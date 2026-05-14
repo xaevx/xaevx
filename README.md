@@ -1,4 +1,4 @@
-<img src = "Banner.png"/>
+<img src = "Banner.mp4"/>
 
 <h2 align="center">Greetings 👋 I'm Deno Crispin</h2>
 
