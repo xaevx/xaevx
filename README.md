@@ -8,9 +8,9 @@
 
 ###
 
-<h3>🌐 Frontend</h3>
+<h3 align="center">🌐 Frontend</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=000000" />
   <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=000000" />
@@ -24,9 +24,9 @@
 
 <br/>
 
-<h3>⚙️ Backend</h3>
+<h3 align="center">⚙️ Backend</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" />
   <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=000000" />
   <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" />
@@ -37,9 +37,9 @@
 
 <br/>
 
-<h3>🤖 AI / ML / Computer Vision</h3>
+<h3 align="center">🤖 AI / ML / Computer Vision</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=000000" />
   <img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=000000" />
   <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=000000" />
@@ -48,9 +48,9 @@
 
 <br/>
 
-<h3>🧠 Tools & Platforms (AI)</h3>
+<h3 align="center">🧠 Tools & Platforms (AI)</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" />
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000" />
   <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=for-the-badge&logo=gitlab&logoColor=000000" />
