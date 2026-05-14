@@ -1,6 +1,8 @@
-<h2 align="left">Greetings 👋 I'm Deno Crispin</h2>
+<img src = "Banner.jpg"/>
 
-<div align="left">
+<h2 align="center">Greetings 👋 I'm Deno Crispin</h2>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xaevx&show_icons=true&theme=graywhite&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaevx&layout=compact&theme=graywhite" height="160"/>
 </div>
