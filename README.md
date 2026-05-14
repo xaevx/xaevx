@@ -9,98 +9,67 @@
 ###
 
 <h3>🌐 Frontend</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35"/>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=000000" />
+  <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Dart-FFFFFF?style=for-the-badge&logo=dart&logoColor=000000" />
 </div>
 
 <br/>
 
 <h3>⚙️ Backend</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="35"/>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" />
+  <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Heroku-FFFFFF?style=for-the-badge&logo=heroku&logoColor=000000" />
 </div>
 
 <br/>
 
 <h3>🤖 AI / ML / Computer Vision</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://onnx.ai/images/onnx-logo.png" height="35"/>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=000000" />
+  <img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=000000" />
+  <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=000000" />
+  <img src="https://img.shields.io/badge/ONNX-FFFFFF?style=for-the-badge&logo=onnx&logoColor=000000" />
 </div>
 
 <br/>
 
 <h3>🧠 Tools & Platforms (AI)</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35"/>
-  </div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000" />
+  <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=for-the-badge&logo=gitlab&logoColor=000000" />
+  <img src="https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=000000" />
+  <img src="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoColor=000000" />
+  <img src="https://img.shields.io/badge/WebStorm-FFFFFF?style=for-the-badge&logo=webstorm&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=000000" />
+  <img src="https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazonaws&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Google_Cloud-FFFFFF?style=for-the-badge&logo=googlecloud&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Netlify-FFFFFF?style=for-the-badge&logo=netlify&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Blender-FFFFFF?style=for-the-badge&logo=blender&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Canva-FFFFFF?style=for-the-badge&logo=canva&logoColor=000000" />
+</div>
 
 ###
 
