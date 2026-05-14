@@ -1,4 +1,4 @@
-<img src = "Banner.gif"/>
+<img src = "Banner.gif" alt="Banner"/>
 
 <h2 align="center">Greetings 👋 I'm Deno Crispin</h2>
 
