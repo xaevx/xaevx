@@ -1,4 +1,4 @@
-<img src = "Banner.jpg"/>
+<img src = "Banner.png"/>
 
 <h2 align="center">Greetings 👋 I'm Deno Crispin</h2>
 
@@ -9,6 +9,7 @@
 
 ###
 
+<p align="center">
 <h3>🌐 Frontend</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
@@ -29,6 +30,7 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35"/>
 </div>
+</p>
 
 <br/>
 
